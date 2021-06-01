@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 A Portfolio of projects that I have completed to demonstrate the skills I currently have. 
 
